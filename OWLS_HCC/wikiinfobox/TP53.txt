@@ -1,0 +1,473 @@
+<table class="infobox" style="width:26.4em">
+<tr>
+<th colspan="4" style="text-align:center;font-size:125%;font-weight:bold">TP53</th>
+</tr>
+
+<tr>
+<td colspan="4" style="text-align:center"><a class="image" href="/wiki/File:P53.png"><img alt="P53.png" data-file-height="1096" data-file-width="840" height="326" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P53.png/250px-P53.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P53.png/375px-P53.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/P53.png/500px-P53.png 2x" width="250"/></a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Available structures</th>
+</tr>
+<tr>
+<th rowspan="2" style="background-color:#c3fdb8;width:43px"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td colspan="2" style="background-color:#eee">Ortholog search: <span class="plainlinks"><a class="external text" href="https://www.ebi.ac.uk/pdbe/searchResults.html?display=both&amp;term=P02340%20or%20P04637" rel="nofollow">PDBe</a> <a class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=UpAccessionIdQuery&amp;accessionIdList=P02340,P04637" rel="nofollow">RCSB</a></span></td>
+</tr>
+<tr>
+<td>
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr style="background-color:#ddd;text-align:center">
+<th colspan="2">List of PDB id codes</th>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#eee">
+<p><span class="plainlinks"><a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4QO1" rel="nofollow">4QO1</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1A1U" rel="nofollow">1A1U</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1AIE" rel="nofollow">1AIE</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1C26" rel="nofollow">1C26</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1DT7" rel="nofollow">1DT7</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1GZH" rel="nofollow">1GZH</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1H26" rel="nofollow">1H26</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1HS5" rel="nofollow">1HS5</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1KZY" rel="nofollow">1KZY</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1MA3" rel="nofollow">1MA3</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1OLG" rel="nofollow">1OLG</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1OLH" rel="nofollow">1OLH</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1PES" rel="nofollow">1PES</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1PET" rel="nofollow">1PET</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1SAE" rel="nofollow">1SAE</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1SAF" rel="nofollow">1SAF</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1SAK" rel="nofollow">1SAK</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1SAL" rel="nofollow">1SAL</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1TSR" rel="nofollow">1TSR</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1TUP" rel="nofollow">1TUP</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1UOL" rel="nofollow">1UOL</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1XQH" rel="nofollow">1XQH</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1YC5" rel="nofollow">1YC5</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1YCQ" rel="nofollow">1YCQ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1YCR" rel="nofollow">1YCR</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1YCS" rel="nofollow">1YCS</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2AC0" rel="nofollow">2AC0</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2ADY" rel="nofollow">2ADY</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2AHI" rel="nofollow">2AHI</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2ATA" rel="nofollow">2ATA</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2B3G" rel="nofollow">2B3G</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2BIM" rel="nofollow">2BIM</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2BIN" rel="nofollow">2BIN</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2BIO" rel="nofollow">2BIO</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2BIP" rel="nofollow">2BIP</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2BIQ" rel="nofollow">2BIQ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2FEJ" rel="nofollow">2FEJ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2FOJ" rel="nofollow">2FOJ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2FOO" rel="nofollow">2FOO</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2GS0" rel="nofollow">2GS0</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H1L" rel="nofollow">2H1L</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H2D" rel="nofollow">2H2D</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H2F" rel="nofollow">2H2F</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H4F" rel="nofollow">2H4F</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H4H" rel="nofollow">2H4H</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H4J" rel="nofollow">2H4J</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2H59" rel="nofollow">2H59</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J0Z" rel="nofollow">2J0Z</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J10" rel="nofollow">2J10</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J11" rel="nofollow">2J11</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J1W" rel="nofollow">2J1W</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J1X" rel="nofollow">2J1X</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J1Y" rel="nofollow">2J1Y</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J1Z" rel="nofollow">2J1Z</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J20" rel="nofollow">2J20</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2J21" rel="nofollow">2J21</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2K8F" rel="nofollow">2K8F</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2L14" rel="nofollow">2L14</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2LY4" rel="nofollow">2LY4</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2MEJ" rel="nofollow">2MEJ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2MWO" rel="nofollow">2MWO</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2MWP" rel="nofollow">2MWP</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2MZD" rel="nofollow">2MZD</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2OCJ" rel="nofollow">2OCJ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2PCX" rel="nofollow">2PCX</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2RUK" rel="nofollow">2RUK</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2VUK" rel="nofollow">2VUK</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2WGX" rel="nofollow">2WGX</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2X0U" rel="nofollow">2X0U</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2X0V" rel="nofollow">2X0V</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2X0W" rel="nofollow">2X0W</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2XWR" rel="nofollow">2XWR</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2YBG" rel="nofollow">2YBG</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2YDR" rel="nofollow">2YDR</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2Z5S" rel="nofollow">2Z5S</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2Z5T" rel="nofollow">2Z5T</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3D05" rel="nofollow">3D05</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3D06" rel="nofollow">3D06</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3D07" rel="nofollow">3D07</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3D08" rel="nofollow">3D08</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3D09" rel="nofollow">3D09</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3D0A" rel="nofollow">3D0A</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3DAB" rel="nofollow">3DAB</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3DAC" rel="nofollow">3DAC</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3IGK" rel="nofollow">3IGK</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3IGL" rel="nofollow">3IGL</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3KMD" rel="nofollow">3KMD</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3KZ8" rel="nofollow">3KZ8</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3LW1" rel="nofollow">3LW1</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3OQ5" rel="nofollow">3OQ5</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3PDH" rel="nofollow">3PDH</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3Q01" rel="nofollow">3Q01</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3Q05" rel="nofollow">3Q05</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3Q06" rel="nofollow">3Q06</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3SAK" rel="nofollow">3SAK</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3TG5" rel="nofollow">3TG5</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3TS8" rel="nofollow">3TS8</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=3ZME" rel="nofollow">3ZME</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4AGL" rel="nofollow">4AGL</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4AGM" rel="nofollow">4AGM</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4AGN" rel="nofollow">4AGN</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4AGO" rel="nofollow">4AGO</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4AGP" rel="nofollow">4AGP</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4AGQ" rel="nofollow">4AGQ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4BUZ" rel="nofollow">4BUZ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4BV2" rel="nofollow">4BV2</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4HFZ" rel="nofollow">4HFZ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4HJE" rel="nofollow">4HJE</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBQ" rel="nofollow">4IBQ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBS" rel="nofollow">4IBS</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBT" rel="nofollow">4IBT</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBU" rel="nofollow">4IBU</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBV" rel="nofollow">4IBV</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBW" rel="nofollow">4IBW</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBY" rel="nofollow">4IBY</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IBZ" rel="nofollow">4IBZ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4IJT" rel="nofollow">4IJT</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4KVP" rel="nofollow">4KVP</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4LO9" rel="nofollow">4LO9</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4LOE" rel="nofollow">4LOE</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4LOF" rel="nofollow">4LOF</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4MZI" rel="nofollow">4MZI</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4MZR" rel="nofollow">4MZR</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4X34" rel="nofollow">4X34</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4ZZJ" rel="nofollow">4ZZJ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5AOL" rel="nofollow">5AOL</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5ABA" rel="nofollow">5ABA</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5AOK" rel="nofollow">5AOK</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2MWY" rel="nofollow">2MWY</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5A7B" rel="nofollow">5A7B</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5AOJ" rel="nofollow">5AOJ</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5AOI" rel="nofollow">5AOI</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5ECG" rel="nofollow">5ECG</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5AB9" rel="nofollow">5AB9</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4FZ3" rel="nofollow">4FZ3</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4RP6" rel="nofollow">4RP6</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4XR8" rel="nofollow">4XR8</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5AOM" rel="nofollow">5AOM</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=4RP7" rel="nofollow">4RP7</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5HOU" rel="nofollow">5HOU</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5HP0" rel="nofollow">5HP0</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5HPD" rel="nofollow">5HPD</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5LGY" rel="nofollow">5LGY</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5G4M" rel="nofollow">5G4M</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5G4O" rel="nofollow">5G4O</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5G4N" rel="nofollow">5G4N</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=5BUA" rel="nofollow">5BUA</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><span class="plainlinks"><a href="/wiki/Gene_nomenclature" title="Gene nomenclature">Aliases</a></span></th>
+<td colspan="3" style="background:#eee"><span class="plainlinks"><a class="external text" href="http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=11998" rel="nofollow">TP53</a></span>, BCC7, LFS1, P53, TRP53, tumor protein p53</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">External IDs</th>
+<td colspan="3" style="background-color:#eee"><span class="plainlinks"><a class="mw-redirect" href="/wiki/Mendelian_Inheritance_in_Man" title="Mendelian Inheritance in Man">OMIM:</a> <a class="external text" href="https://omim.org/entry/191170" rel="nofollow">191170</a> <a href="/wiki/Mouse_Genome_Informatics" title="Mouse Genome Informatics">MGI:</a> <a class="external text" href="http://www.informatics.jax.org/marker/MGI:98834" rel="nofollow">98834</a> <a href="/wiki/HomoloGene" title="HomoloGene">HomoloGene:</a> <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=460" rel="nofollow">460</a> <a href="/wiki/GeneCards" title="GeneCards">GeneCards:</a> <a class="external text" href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=TP53" rel="nofollow">TP53</a></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible expand" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Human)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_human_chromosome_17.svg" title="Chromosome 17 (human)"><img alt="Chromosome 17 (human)" data-file-height="189" data-file-width="474" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ideogram_human_chromosome_17.svg/300px-Ideogram_human_chromosome_17.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ideogram_human_chromosome_17.svg/450px-Ideogram_human_chromosome_17.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ideogram_human_chromosome_17.svg/600px-Ideogram_human_chromosome_17.svg.png 2x" width="300"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks"><a href="/wiki/Chromosome_17_(human)" title="Chromosome 17 (human)">Chromosome 17 (human)</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-0"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Human_chromosome_17_ideogram.svg" title="Chromosome 17 (human)"><img alt="Chromosome 17 (human)" data-file-height="216" data-file-width="1125" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Human_chromosome_17_ideogram.svg/300px-Human_chromosome_17_ideogram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Human_chromosome_17_ideogram.svg/450px-Human_chromosome_17_ideogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Human_chromosome_17_ideogram.svg/600px-Human_chromosome_17_ideogram.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 21.713175725776px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for TP53"><img alt="Genomic location for TP53" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 27.7px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for TP53"><img alt="Genomic location for TP53" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">17p13.1</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">7,661,779 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-1"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">7,687,550 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-2"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Mouse)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_house_mouse_chromosome_11.svg" title="Chromosome 11 (mouse)"><img alt="Chromosome 11 (mouse)" data-file-height="200" data-file-width="470" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ideogram_house_mouse_chromosome_11.svg/260px-Ideogram_house_mouse_chromosome_11.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ideogram_house_mouse_chromosome_11.svg/390px-Ideogram_house_mouse_chromosome_11.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ideogram_house_mouse_chromosome_11.svg/520px-Ideogram_house_mouse_chromosome_11.svg.png 2x" width="260"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks">Chromosome 11 (mouse)<sup class="reference" id="cite_ref-refGRCm38Ensembl_2-0"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Ideogram_of_house_mouse_chromosome_11.svg" title="Chromosome 11 (mouse)"><img alt="Chromosome 11 (mouse)" data-file-height="231" data-file-width="1200" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_11.svg/300px-Ideogram_of_house_mouse_chromosome_11.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_11.svg/450px-Ideogram_of_house_mouse_chromosome_11.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_11.svg/600px-Ideogram_of_house_mouse_chromosome_11.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 162.25367489643px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for TP53"><img alt="Genomic location for TP53" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 168.3px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for TP53"><img alt="Genomic location for TP53" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">11 B3|11 42.83 cM</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">69,580,359 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_2-1"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">69,591,873 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_2-2"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible expand" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_expression" title="Gene expression">RNA expression</a> pattern</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:PBB_GE_TP53_201746_at_fs.png"><img alt="PBB GE TP53 201746 at fs.png" data-file-height="530" data-file-width="732" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/PBB_GE_TP53_201746_at_fs.png/250px-PBB_GE_TP53_201746_at_fs.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/39/PBB_GE_TP53_201746_at_fs.png/375px-PBB_GE_TP53_201746_at_fs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/39/PBB_GE_TP53_201746_at_fs.png/500px-PBB_GE_TP53_201746_at_fs.png 2x" width="250"/></a><br/>
+<br/>
+<a class="image" href="/wiki/File:PBB_GE_TP53_211300_s_at_fs.png"><img alt="PBB GE TP53 211300 s at fs.png" data-file-height="530" data-file-width="732" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/PBB_GE_TP53_211300_s_at_fs.png/250px-PBB_GE_TP53_211300_s_at_fs.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4b/PBB_GE_TP53_211300_s_at_fs.png/375px-PBB_GE_TP53_211300_s_at_fs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4b/PBB_GE_TP53_211300_s_at_fs.png/500px-PBB_GE_TP53_211300_s_at_fs.png 2x" width="250"/></a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><span class="plainlinks"><a class="external text" href="http://biogps.org/gene/7157/" rel="nofollow">More reference expression data</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_ontology" title="Gene ontology">Gene ontology</a></th>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Molecular function</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0047485" rel="nofollow">protein N-terminus binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003700" rel="nofollow">transcription factor activity, sequence-specific DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043621" rel="nofollow">protein self-association</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0001046" rel="nofollow">core promoter sequence-specific DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0044212" rel="nofollow">transcription regulatory region DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000981" rel="nofollow">RNA polymerase II transcription factor activity, sequence-specific DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0019903" rel="nofollow">protein phosphatase binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005524" rel="nofollow">ATP binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008134" rel="nofollow">transcription factor binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0046872" rel="nofollow">metal ion binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051721" rel="nofollow">protein phosphatase 2A binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0019899" rel="nofollow">enzyme binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0001085" rel="nofollow">RNA polymerase II transcription factor binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008270" rel="nofollow">zinc ion binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003682" rel="nofollow">chromatin binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0002020" rel="nofollow">protease binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003684" rel="nofollow">damaged DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005515" rel="nofollow">protein binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0035035" rel="nofollow">histone acetyltransferase binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005507" rel="nofollow">copper ion binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0019901" rel="nofollow">protein kinase binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051087" rel="nofollow">chaperone binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0001228" rel="nofollow">transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030971" rel="nofollow">receptor tyrosine kinase binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0002039" rel="nofollow">p53 binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042802" rel="nofollow">identical protein binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0046982" rel="nofollow">protein heterodimerization activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031625" rel="nofollow">ubiquitin protein ligase binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000977" rel="nofollow">RNA polymerase II regulatory region sequence-specific DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003677" rel="nofollow">DNA binding</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Cellular component</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005737" rel="nofollow">cytoplasm</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005739" rel="nofollow">mitochondrion</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005634" rel="nofollow">nucleus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016604" rel="nofollow">nuclear body</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005669" rel="nofollow">transcription factor TFIID complex</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016363" rel="nofollow">nuclear matrix</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005657" rel="nofollow">replication fork</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005730" rel="nofollow">nucleolus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005783" rel="nofollow">endoplasmic reticulum</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000790" rel="nofollow">nuclear chromatin</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005654" rel="nofollow">nucleoplasm</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043234" rel="nofollow">protein complex</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005759" rel="nofollow">mitochondrial matrix</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016605" rel="nofollow">PML body</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005829" rel="nofollow">cytosol</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Biological process</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031065" rel="nofollow">positive regulation of histone deacetylation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031497" rel="nofollow">chromatin assembly</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006977" rel="nofollow">DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0048511" rel="nofollow">rhythmic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0090399" rel="nofollow">replicative senescence</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051974" rel="nofollow">negative regulation of telomerase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0097252" rel="nofollow">oligodendrocyte apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006974" rel="nofollow">cellular response to DNA damage stimulus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007569" rel="nofollow">cell aging</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0097193" rel="nofollow">intrinsic apoptotic signaling pathway</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043525" rel="nofollow">positive regulation of neuron apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0035690" rel="nofollow">cellular response to drug</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0046902" rel="nofollow">regulation of mitochondrial membrane permeability</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:2000379" rel="nofollow">positive regulation of reactive oxygen species metabolic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0071479" rel="nofollow">cellular response to ionizing radiation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0070245" rel="nofollow">positive regulation of thymocyte apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051097" rel="nofollow">negative regulation of helicase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007049" rel="nofollow">cell cycle</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007265" rel="nofollow">Ras protein signal transduction</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008283" rel="nofollow">cell proliferation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0071456" rel="nofollow">cellular response to hypoxia</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008285" rel="nofollow">negative regulation of cell proliferation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006289" rel="nofollow">nucleotide-excision repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042149" rel="nofollow">cellular response to glucose starvation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006355" rel="nofollow">regulation of transcription, DNA-templated</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0046677" rel="nofollow">response to antibiotic</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006351" rel="nofollow">transcription, DNA-templated</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006983" rel="nofollow">ER overload response</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0045893" rel="nofollow">positive regulation of transcription, DNA-templated</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030308" rel="nofollow">negative regulation of cell growth</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0072332" rel="nofollow">intrinsic apoptotic signaling pathway by p53 class mediator</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0050731" rel="nofollow">positive regulation of peptidyl-tyrosine phosphorylation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016032" rel="nofollow">viral process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0010332" rel="nofollow">response to gamma radiation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0048147" rel="nofollow">negative regulation of fibroblast proliferation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:2001244" rel="nofollow">positive regulation of intrinsic apoptotic signaling pathway</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030154" rel="nofollow">cell differentiation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008340" rel="nofollow">determination of adult lifespan</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:1990440" rel="nofollow">positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0034644" rel="nofollow">cellular response to UV</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030330" rel="nofollow">DNA damage response, signal transduction by p53 class mediator</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043066" rel="nofollow">negative regulation of apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051262" rel="nofollow">protein tetramerization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0090403" rel="nofollow">oxidative stress-induced premature senescence</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0090200" rel="nofollow">positive regulation of release of cytochrome c from mitochondria</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0048512" rel="nofollow">circadian behavior</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0045892" rel="nofollow">negative regulation of transcription, DNA-templated</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008104" rel="nofollow">protein localization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042771" rel="nofollow">intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:1900119" rel="nofollow">positive regulation of execution phase of apoptosis</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006461" rel="nofollow">protein complex assembly</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000733" rel="nofollow">DNA strand renaturation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007275" rel="nofollow">multicellular organism development</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0034613" rel="nofollow">cellular protein localization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:1900740" rel="nofollow">positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0010628" rel="nofollow">positive regulation of gene expression</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031571" rel="nofollow">mitotic G1 DNA damage checkpoint</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007050" rel="nofollow">cell cycle arrest</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0032461" rel="nofollow">positive regulation of protein oligomerization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043065" rel="nofollow">positive regulation of apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043153" rel="nofollow">entrainment of circadian clock by photoperiod</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0010165" rel="nofollow">response to X-ray</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0045944" rel="nofollow">positive regulation of transcription from RNA polymerase II promoter</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006284" rel="nofollow">base-excision repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006978" rel="nofollow">DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0071158" rel="nofollow">positive regulation of cell cycle arrest</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:1902749" rel="nofollow">regulation of cell cycle G2/M phase transition</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043161" rel="nofollow">proteasome-mediated ubiquitin-dependent protein catabolic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:1901796" rel="nofollow">regulation of signal transduction by p53 class mediator</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006915" rel="nofollow">apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006366" rel="nofollow">transcription from RNA polymerase II promoter</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0046827" rel="nofollow">positive regulation of protein export from nucleus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0012501" rel="nofollow">programmed cell death</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042981" rel="nofollow">regulation of apoptotic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016579" rel="nofollow">protein deubiquitination</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0048015" rel="nofollow">phosphatidylinositol-mediated signaling</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000122" rel="nofollow">negative regulation of transcription from RNA polymerase II promoter</a><br/></span></td>
+</tr>
+<tr>
+<td colspan="4" style="background-color:#eee;text-align:center">Sources:<a class="external text" href="http://amigo.geneontology.org/" rel="nofollow">Amigo</a> / <a class="external text" href="https://www.ebi.ac.uk/QuickGO/" rel="nofollow">QuickGO</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Orthologs</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Species</th>
+<td><b>Human</b></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/Entrez" title="Entrez">Entrez</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=7157&amp;rn=1" rel="nofollow">7157</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=22059&amp;rn=1" rel="nofollow">22059</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a class="mw-redirect" href="/wiki/Ensembl" title="Ensembl">Ensembl</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000141510;db=core" rel="nofollow">ENSG00000141510</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000059552;db=core" rel="nofollow">ENSMUSG00000059552</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/UniProt" title="UniProt">UniProt</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/P04637" rel="nofollow">P04637</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/P02340" rel="nofollow">P02340</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (mRNA)</th>
+<td>
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276761" rel="nofollow">NM_001276761</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_000546" rel="nofollow">NM_000546</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126112" rel="nofollow">NM_001126112</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126113" rel="nofollow">NM_001126113</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126114" rel="nofollow">NM_001126114</a><br/></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126115" rel="nofollow">NM_001126115</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126116" rel="nofollow">NM_001126116</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126117" rel="nofollow">NM_001126117</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001126118" rel="nofollow">NM_001126118</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276695" rel="nofollow">NM_001276695</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276696" rel="nofollow">NM_001276696</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276697" rel="nofollow">NM_001276697</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276698" rel="nofollow">NM_001276698</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276699" rel="nofollow">NM_001276699</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001276760" rel="nofollow">NM_001276760</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001127233" rel="nofollow">NM_001127233</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_011640" rel="nofollow">NM_011640</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (protein)</th>
+<td>
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_000537" rel="nofollow">NP_000537</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119584" rel="nofollow">NP_001119584</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119585" rel="nofollow">NP_001119585</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119586" rel="nofollow">NP_001119586</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119587" rel="nofollow">NP_001119587</a><br/></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119588" rel="nofollow">NP_001119588</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119589" rel="nofollow">NP_001119589</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001119590" rel="nofollow">NP_001119590</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263624" rel="nofollow">NP_001263624</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263625" rel="nofollow">NP_001263625</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263626" rel="nofollow">NP_001263626</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263627" rel="nofollow">NP_001263627</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263628" rel="nofollow">NP_001263628</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263689" rel="nofollow">NP_001263689</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001263690" rel="nofollow">NP_001263690</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001120705" rel="nofollow">NP_001120705</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_035770" rel="nofollow">NP_035770</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Location (UCSC)</th>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Human&amp;db=hg38&amp;position=chr17:7661779-7687550" rel="nofollow">Chr 17: 7.66 – 7.69 Mb</a></span></td>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&amp;db=mm0&amp;position=chr17:69580359-69591873" rel="nofollow">Chr 17: 69.58 – 69.59 Mb</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/PubMed" title="PubMed">PubMed</a> search</th>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></span></td>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:center">
+<tr>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q14818098" title="d:Q14818098">View/Edit Human</a></td>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q14818100" title="d:Q14818100">View/Edit Mouse</a></td>
+</tr>
+</table>
+</td>
+</tr>
+

@@ -1,0 +1,362 @@
+<table class="infobox" style="width:26.4em">
+<tr>
+<th colspan="4" style="text-align:center;font-size:125%;font-weight:bold">BCR</th>
+</tr>
+
+<tr>
+<td colspan="4" style="text-align:center"><a class="image" href="/wiki/File:PBB_Protein_BCR_image.jpg"><img alt="PBB Protein BCR image.jpg" data-file-height="500" data-file-width="500" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/PBB_Protein_BCR_image.jpg/250px-PBB_Protein_BCR_image.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/PBB_Protein_BCR_image.jpg/375px-PBB_Protein_BCR_image.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/2/21/PBB_Protein_BCR_image.jpg 2x" width="250"/></a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Available structures</th>
+</tr>
+<tr>
+<th rowspan="2" style="background-color:#c3fdb8;width:43px"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td colspan="2" style="background-color:#eee">Ortholog search: <span class="plainlinks"><a class="external text" href="https://www.ebi.ac.uk/pdbe/searchResults.html?display=both&amp;term=Q6PAJ1%20or%20P11274%20or%20H0Y554" rel="nofollow">PDBe</a> <a class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=UpAccessionIdQuery&amp;accessionIdList=Q6PAJ1,P11274,H0Y554" rel="nofollow">RCSB</a></span></td>
+</tr>
+<tr>
+<td>
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr style="background-color:#ddd;text-align:center">
+<th colspan="2">List of PDB id codes</th>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#eee">
+<p><span class="plainlinks"><a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=1K1F" rel="nofollow">1K1F</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2AIN" rel="nofollow">2AIN</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><span class="plainlinks"><a href="/wiki/Gene_nomenclature" title="Gene nomenclature">Aliases</a></span></th>
+<td colspan="3" style="background:#eee"><span class="plainlinks"><a class="external text" href="http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=1014" rel="nofollow">BCR</a></span>, Bcr, 5133400C09Rik, AI561783, AI853148, mKIAA3017, ALL, BCR1, CML, D22S11, D22S662, PHL, RhoGEF and GTPase activating protein, BCR gene</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">External IDs</th>
+<td colspan="3" style="background-color:#eee"><span class="plainlinks"><a href="/wiki/Mouse_Genome_Informatics" title="Mouse Genome Informatics">MGI:</a> <a class="external text" href="http://www.informatics.jax.org/marker/MGI:88141" rel="nofollow">88141</a> <a href="/wiki/HomoloGene" title="HomoloGene">HomoloGene:</a> <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=3192" rel="nofollow">3192</a> <a href="/wiki/GeneCards" title="GeneCards">GeneCards:</a> <a class="external text" href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=BCR" rel="nofollow">BCR</a></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible expand" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Human)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_human_chromosome_22.svg" title="Chromosome 22 (human)"><img alt="Chromosome 22 (human)" data-file-height="189" data-file-width="474" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ideogram_human_chromosome_22.svg/300px-Ideogram_human_chromosome_22.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ideogram_human_chromosome_22.svg/450px-Ideogram_human_chromosome_22.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ideogram_human_chromosome_22.svg/600px-Ideogram_human_chromosome_22.svg.png 2x" width="300"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks"><a href="/wiki/Chromosome_22_(human)" title="Chromosome 22 (human)">Chromosome 22 (human)</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-0"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Human_chromosome_22_ideogram.svg" title="Chromosome 22 (human)"><img alt="Chromosome 22 (human)" data-file-height="216" data-file-width="1125" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Human_chromosome_22_ideogram.svg/300px-Human_chromosome_22_ideogram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Human_chromosome_22_ideogram.svg/450px-Human_chromosome_22_ideogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Human_chromosome_22_ideogram.svg/600px-Human_chromosome_22_ideogram.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 129.16259005192px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for BCR"><img alt="Genomic location for BCR" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 135.2px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for BCR"><img alt="Genomic location for BCR" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">22q11.23</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">23,179,704 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-1"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">23,318,037 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-2"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Mouse)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_house_mouse_chromosome_10.svg" title="Chromosome 10 (mouse)"><img alt="Chromosome 10 (mouse)" data-file-height="200" data-file-width="470" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ideogram_house_mouse_chromosome_10.svg/260px-Ideogram_house_mouse_chromosome_10.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ideogram_house_mouse_chromosome_10.svg/390px-Ideogram_house_mouse_chromosome_10.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Ideogram_house_mouse_chromosome_10.svg/520px-Ideogram_house_mouse_chromosome_10.svg.png 2x" width="260"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks">Chromosome 10 (mouse)<sup class="reference" id="cite_ref-refGRCm38Ensembl_2-0"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Ideogram_of_house_mouse_chromosome_10.svg" title="Chromosome 10 (mouse)"><img alt="Chromosome 10 (mouse)" data-file-height="231" data-file-width="1200" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ideogram_of_house_mouse_chromosome_10.svg/300px-Ideogram_of_house_mouse_chromosome_10.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ideogram_of_house_mouse_chromosome_10.svg/450px-Ideogram_of_house_mouse_chromosome_10.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ideogram_of_house_mouse_chromosome_10.svg/600px-Ideogram_of_house_mouse_chromosome_10.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 163.6661306525px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for BCR"><img alt="Genomic location for BCR" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 169.7px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for BCR"><img alt="Genomic location for BCR" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">10 C1|10 38.49 cM</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">75,060,592 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_2-1"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">75,184,921 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_2-2"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_ontology" title="Gene ontology">Gene ontology</a></th>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Molecular function</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016740" rel="nofollow">transferase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000166" rel="nofollow">nucleotide binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005085" rel="nofollow">guanyl-nucleotide exchange factor activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016301" rel="nofollow">kinase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0004674" rel="nofollow">protein serine/threonine kinase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005515" rel="nofollow">protein binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005089" rel="nofollow">Rho guanyl-nucleotide exchange factor activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0019899" rel="nofollow">enzyme binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0004713" rel="nofollow">protein tyrosine kinase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005524" rel="nofollow">ATP binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005096" rel="nofollow">GTPase activator activity</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Cellular component</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005737" rel="nofollow">cytoplasm</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005829" rel="nofollow">cytosol</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0045211" rel="nofollow">postsynaptic membrane</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016020" rel="nofollow">membrane</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0014069" rel="nofollow">postsynaptic density</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005886" rel="nofollow">plasma membrane</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0045202" rel="nofollow">synapse</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043234" rel="nofollow">protein complex</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030054" rel="nofollow">cell junction</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0070062" rel="nofollow">extracellular exosome</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005622" rel="nofollow">intracellular</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Biological process</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0050766" rel="nofollow">positive regulation of phagocytosis</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0035556" rel="nofollow">intracellular signal transduction</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0050885" rel="nofollow">neuromuscular process controlling balance</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016310" rel="nofollow">phosphorylation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051726" rel="nofollow">regulation of cell cycle</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0060313" rel="nofollow">negative regulation of blood vessel remodeling</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006468" rel="nofollow">protein phosphorylation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0002692" rel="nofollow">negative regulation of cellular extravasation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0032496" rel="nofollow">response to lipopolysaccharide</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007420" rel="nofollow">brain development</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043114" rel="nofollow">regulation of vascular permeability</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030336" rel="nofollow">negative regulation of cell migration</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043314" rel="nofollow">negative regulation of neutrophil degranulation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042472" rel="nofollow">inner ear morphogenesis</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0046777" rel="nofollow">protein autophosphorylation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0048008" rel="nofollow">platelet-derived growth factor receptor signaling pathway</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0035023" rel="nofollow">regulation of Rho protein signal transduction</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051056" rel="nofollow">regulation of small GTPase mediated signal transduction</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0050728" rel="nofollow">negative regulation of inflammatory response</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030036" rel="nofollow">actin cytoskeleton organization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007165" rel="nofollow">signal transduction</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0018108" rel="nofollow">peptidyl-tyrosine phosphorylation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003014" rel="nofollow">renal system process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0048872" rel="nofollow">homeostasis of number of cells</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051171" rel="nofollow">regulation of nitrogen compound metabolic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0060216" rel="nofollow">definitive hemopoiesis</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0060268" rel="nofollow">negative regulation of respiratory burst</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0065002" rel="nofollow">intracellular protein transmembrane transport</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0071222" rel="nofollow">cellular response to lipopolysaccharide</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:2000378" rel="nofollow">negative regulation of reactive oxygen species metabolic process</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043547" rel="nofollow">positive regulation of GTPase activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0065009" rel="nofollow">regulation of molecular function</a><br/></span></td>
+</tr>
+<tr>
+<td colspan="4" style="background-color:#eee;text-align:center">Sources:<a class="external text" href="http://amigo.geneontology.org/" rel="nofollow">Amigo</a> / <a class="external text" href="https://www.ebi.ac.uk/QuickGO/" rel="nofollow">QuickGO</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Orthologs</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Species</th>
+<td><b>Human</b></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/Entrez" title="Entrez">Entrez</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=613&amp;rn=1" rel="nofollow">613</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=110279&amp;rn=1" rel="nofollow">110279</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a class="mw-redirect" href="/wiki/Ensembl" title="Ensembl">Ensembl</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000186716;db=core" rel="nofollow">ENSG00000186716</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000009681;db=core" rel="nofollow">ENSMUSG00000009681</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/UniProt" title="UniProt">UniProt</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/P11274" rel="nofollow">P11274</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/Q6PAJ1" rel="nofollow">Q6PAJ1</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (mRNA)</th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_004327" rel="nofollow">NM_004327</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_021574" rel="nofollow">NM_021574</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001081412" rel="nofollow">NM_001081412</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (protein)</th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_004318" rel="nofollow">NP_004318</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_067585" rel="nofollow">NP_067585</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001074881" rel="nofollow">NP_001074881</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Location (UCSC)</th>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Human&amp;db=hg38&amp;position=chr22:23179704-23318037" rel="nofollow">Chr 22: 23.18 – 23.32 Mb</a></span></td>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&amp;db=mm0&amp;position=chr22:75060592-75184921" rel="nofollow">Chr 22: 75.06 – 75.18 Mb</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/PubMed" title="PubMed">PubMed</a> search</th>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></span></td>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:center">
+<tr>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q18292821" title="d:Q18292821">View/Edit Human</a></td>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q21129509" title="d:Q21129509">View/Edit Mouse</a></td>
+</tr>
+</table>
+</td>
+</tr>
+

@@ -1,0 +1,170 @@
+name,entrezName
+TP53 gene,TP53
+XPC gene,XPC
+NDE1 gene,NDE1
+,BCR
+ACTC1 gene,ACTC1
+,CD34
+MIR7-3HG gene,MIR7-3HG
+IL1A protein, human,IL1A
+IL1B gene,IL1B
+MDFIC gene,MDFIC
+Tumor Necrosis Factors,TNF
+N-myc Genes,MYC
+ABCC1 gene,ABCC1
+MYCN gene,MYCN
+WT1 gene,WT1
+CEL gene,CEL
+PSMA1 gene,PSMA1
+Albumins,ALB
+,AFP
+FUSE gene,FUSE
+IL2 gene,IL2
+Heterogeneous-Nuclear Ribonucleoproteins,HNRNPC,HNRNPDL
+GTF2H1 gene,GTF2H1
+,IGF2BP3
+ZBP1 gene,ZBP1
+,CISH
+GTF3A gene,GTF3A
+,POLE4,POLD4
+TGFA gene,TGFA
+CTNNB1 gene,CTNNB1
+Cyclin D1,CCND1
+APC gene,APC
+,HNF4A
+HRAS gene,HRAS
+,CREB1
+CCND2 gene,CCND2
+CCNE1 gene,CCNE1
+CDK2 gene,CDK2
+EIF1 gene,EIF1
+oncoprotein p21,CDKN1A,TCEAL1,NSG1,H3F3AP6
+,IFI27,PSMD9,SSSCA1,DCTN6,TMED7
+INSR protein, human,INSR
+Insulin,INS
+IRS1 gene,IRS1
+GRB2 gene,GRB2
+NOS2A protein, human,NOS2
+GAPDH gene,GAPDH
+KRAS gene,KRAS
+PGP gene,PGP
+FUT3 gene,FUT3
+Glycoprotein 6-alpha-L-fucosyltransferase,ADRA1D
+ATP6AP1 gene,ATP6AP1
+CDC25A gene,CDC25A
+SMAD4 gene,SMAD4
+SMAD2 gene,SMAD2
+TGFB1 gene,TGFB1
+SMAD3 gene,SMAD3
+PTEN gene,PTEN
+PCYT1A wt Allele,PCYT1A
+CDKN2A gene,CDKN2A
+Epidermal Growth Factor Receptor,EGFR
+ERBB2 protein, human,ERBB2
+NME1 gene,NME1
+MCC gene,MCC
+FOXD3 gene,FOXD3
+HCCS gene,HCCS
+OVAAL gene,OVAAL
+endothelial PAS domain protein 1, human,HLF
+Chemokine (C-X-C Motif) Receptor 3,CXCR3
+Chemokine (C-C Motif) Receptor 5,CCR5
+MDM2 gene,MDM2
+FHIT gene,FHIT
+HPSE gene,HPSE
+TBATA gene,TBATA
+EGR1 gene,EGR1
+,EGF
+,HSPG2
+TK Gene,TKT
+CYP1A1 gene,CYP1A1
+TMPRSS13 gene,TMPRSS13
+IGF2R gene,IGF2R
+GTPBP1 gene,GTPBP1
+TSG101 gene,TSG101
+THEMIS gene,THEMIS
+Transcription Factor AP-1, human,CDK5R2,ATP6V0D1
+SPARC gene,SPARC
+Insulin-Like Growth Factor II,SMN1
+DRD2 gene,DRD2
+STIL wt Allele,PMEL,STIL
+IL1RN protein, human,IL1RN
+,PTPRVP,SPESP1
+MGP gene,MGP
+KIR3DL1 gene,KIR3DL1
+,EPO
+,CD40
+,FAS
+CD8A wt Allele,C1QBP,CD8A
+Recombinant Interferon-gamma,IFNG
+SDC1 gene,SDC1
+EPAS1 gene,EPAS1
+PRDM2 gene,PRDM2
+PRDM1 gene,PRDM1
+Candidate Tumor Suppressor Gene,PGR,PR@,PRH2,TMEM37,ERVK-10
+UGT2B4 gene,UGT2B4
+DEK gene,DEK
+Vitronectin,VTN
+LY6E gene,LY6E
+,CYP3A4
+CYP3A7 gene,CYP3A7
+LARGE gene,LARGE
+FBN1 gene,FBN1
+ICAM1 gene,ICAM1
+,CD4
+BCL2 gene,BCL2
+Bax protein,BAX
+,PPA1
+Haptoglobins,HP
+TH gene,TH
+DOCK11 gene,DOCK11
+,SGCG
+CCL16 gene,CCL16
+BCL10 gene,BCL10
+CD82 gene,CD82
+oncostatin M receptor,OSMR
+leukemia inhibitory factor,LIF
+oncostatin M,OSM
+LIFR gene,LIFR
+,IL6ST,NM,LRPPRC
+STAT5A protein, human,STAT5A
+STAT3 gene,STAT3
+,SOAT1
+Janus kinase 1,JAK1
+JAK2 protein, human,JAK2
+APOBEC1 gene,APOBEC1
+Apolipoprotein B-100, Human,APOB
+SLC38A3 wt Allele,NAT1,EIF4G2,SLC6A2,SLC38A3,SLC38A6
+IGFBP3 gene,IGFBP3
+HDAC1 gene,HDAC1
+RIPK1 gene,RIPK1
+EIF3I gene,EIF3I
+PSMD10 gene,PSMD10
+RB1 gene,RB1,RBM45
+MDK gene,MDK
+COL18A1 gene,COL18A1
+,HAL,AKR1B10
+PTGS2 gene,PTGS2
+DLC1 gene,DLC1
+ARHGAP1 gene,ARHGAP1
+HFE gene,HFE
+NEUROD1 gene,NEUROD1
+NEUROD1 wt Allele,NEUROD1,TUBB4B
+CHGA gene,CHGA
+MEN1 gene,MEN1
+CDH1 gene,CDH1
+,CEACAM5,CEACAM3,PSG2
+NF-kappa B,NFKB1
+NFKBIA gene,NFKBIA
+Tumor Necrosis Factor Ligand Superfamily Member 6,FASLG
+GPNMB gene,GPNMB
+CTNNA1 gene,CTNNA1
+MSH6 protein, human,MSH6
+,AKR1B1
+,MCM3
+PNP gene,PNP
+MET protein, human,MET,RNMT,SLTM
+,FOS
+JUN gene,JUN
+GSTP1 gene,GSTP1
+ASPH gene,ASPH

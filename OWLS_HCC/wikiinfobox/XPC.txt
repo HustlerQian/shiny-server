@@ -1,0 +1,320 @@
+<table class="infobox" style="width:26.4em">
+<tr>
+<th colspan="4" style="text-align:center;font-size:125%;font-weight:bold">XPC</th>
+</tr>
+
+<tr>
+<td colspan="4" style="text-align:center"><a class="image" href="/wiki/File:Protein_XPC_PDB_2A4J.png"><img alt="Protein XPC PDB 2A4J.png" data-file-height="1000" data-file-width="1200" height="208" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Protein_XPC_PDB_2A4J.png/250px-Protein_XPC_PDB_2A4J.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Protein_XPC_PDB_2A4J.png/375px-Protein_XPC_PDB_2A4J.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Protein_XPC_PDB_2A4J.png/500px-Protein_XPC_PDB_2A4J.png 2x" width="250"/></a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Available structures</th>
+</tr>
+<tr>
+<th rowspan="2" style="background-color:#c3fdb8;width:43px"><a href="/wiki/Protein_Data_Bank" title="Protein Data Bank">PDB</a></th>
+<td colspan="2" style="background-color:#eee">Ortholog search: <span class="plainlinks"><a class="external text" href="https://www.ebi.ac.uk/pdbe/searchResults.html?display=both&amp;term=P51612%20or%20Q01831" rel="nofollow">PDBe</a> <a class="external text" href="http://www.rcsb.org/pdb/search/smartSubquery.do?smartSearchSubtype=UpAccessionIdQuery&amp;accessionIdList=P51612,Q01831" rel="nofollow">RCSB</a></span></td>
+</tr>
+<tr>
+<td>
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr style="background-color:#ddd;text-align:center">
+<th colspan="2">List of PDB id codes</th>
+</tr>
+<tr>
+<td colspan="2" style="background-color:#eee">
+<p><span class="plainlinks"><a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2A4J" rel="nofollow">2A4J</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2GGM" rel="nofollow">2GGM</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2OBH" rel="nofollow">2OBH</a>, <a class="external text" href="http://www.rcsb.org/pdb/explore/explore.do?pdbId=2RVB" rel="nofollow">2RVB</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><span class="plainlinks"><a href="/wiki/Gene_nomenclature" title="Gene nomenclature">Aliases</a></span></th>
+<td colspan="3" style="background:#eee"><span class="plainlinks"><a class="external text" href="http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=12816" rel="nofollow">XPC</a></span>, RAD4, XP3, XPCC, p125, xeroderma pigmentosum, complementation group C, XPC complex subunit, DNA damage recognition and repair factor</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">External IDs</th>
+<td colspan="3" style="background-color:#eee"><span class="plainlinks"><a href="/wiki/Mouse_Genome_Informatics" title="Mouse Genome Informatics">MGI:</a> <a class="external text" href="http://www.informatics.jax.org/marker/MGI:103557" rel="nofollow">103557</a> <a href="/wiki/HomoloGene" title="HomoloGene">HomoloGene:</a> <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=3401" rel="nofollow">3401</a> <a href="/wiki/GeneCards" title="GeneCards">GeneCards:</a> <a class="external text" href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=XPC" rel="nofollow">XPC</a></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Mouse)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_house_mouse_chromosome_6.svg" title="Chromosome 6 (mouse)"><img alt="Chromosome 6 (mouse)" data-file-height="200" data-file-width="470" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ideogram_house_mouse_chromosome_6.svg/260px-Ideogram_house_mouse_chromosome_6.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ideogram_house_mouse_chromosome_6.svg/390px-Ideogram_house_mouse_chromosome_6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ideogram_house_mouse_chromosome_6.svg/520px-Ideogram_house_mouse_chromosome_6.svg.png 2x" width="260"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks">Chromosome 6 (mouse)<sup class="reference" id="cite_ref-refGRCm38Ensembl_1-0"><a href="#cite_note-refGRCm38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Ideogram_of_house_mouse_chromosome_6.svg" title="Chromosome 6 (mouse)"><img alt="Chromosome 6 (mouse)" data-file-height="231" data-file-width="1200" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_6.svg/300px-Ideogram_of_house_mouse_chromosome_6.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_6.svg/450px-Ideogram_of_house_mouse_chromosome_6.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Ideogram_of_house_mouse_chromosome_6.svg/600px-Ideogram_of_house_mouse_chromosome_6.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 174.34203516658px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for XPC"><img alt="Genomic location for XPC" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 180.3px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for XPC"><img alt="Genomic location for XPC" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">6|6 D1</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">91,489,305 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_1-1"><a href="#cite_note-refGRCm38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">91,515,888 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_1-2"><a href="#cite_note-refGRCm38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible expand" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_expression" title="Gene expression">RNA expression</a> pattern</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:PBB_GE_XPC_209375_at_fs.png"><img alt="PBB GE XPC 209375 at fs.png" data-file-height="530" data-file-width="732" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PBB_GE_XPC_209375_at_fs.png/250px-PBB_GE_XPC_209375_at_fs.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PBB_GE_XPC_209375_at_fs.png/375px-PBB_GE_XPC_209375_at_fs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/PBB_GE_XPC_209375_at_fs.png/500px-PBB_GE_XPC_209375_at_fs.png 2x" width="250"/></a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><span class="plainlinks"><a class="external text" href="http://biogps.org/gene/7508/" rel="nofollow">More reference expression data</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_ontology" title="Gene ontology">Gene ontology</a></th>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Molecular function</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003677" rel="nofollow">DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000404" rel="nofollow">heteroduplex DNA loop binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000405" rel="nofollow">bubble DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003697" rel="nofollow">single-stranded DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0003684" rel="nofollow">damaged DNA binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005515" rel="nofollow">protein binding</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Cellular component</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005737" rel="nofollow">cytoplasm</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005886" rel="nofollow">plasma membrane</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005654" rel="nofollow">nucleoplasm</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0071942" rel="nofollow">XPC complex</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005730" rel="nofollow">nucleolus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0070062" rel="nofollow">extracellular exosome</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000111" rel="nofollow">nucleotide-excision repair factor 2 complex</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005634" rel="nofollow">nucleus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005739" rel="nofollow">mitochondrion</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0043231" rel="nofollow">intracellular membrane-bounded organelle</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Biological process</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006289" rel="nofollow">nucleotide-excision repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:1901990" rel="nofollow">regulation of mitotic cell cycle phase transition</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000715" rel="nofollow">nucleotide-excision repair, DNA damage recognition</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031573" rel="nofollow">intra-S DNA damage checkpoint</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006974" rel="nofollow">cellular response to DNA damage stimulus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0070911" rel="nofollow">global genome nucleotide-excision repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0010996" rel="nofollow">response to auditory stimulus</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006298" rel="nofollow">mismatch repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0010224" rel="nofollow">response to UV-B</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0070914" rel="nofollow">UV-damage excision repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006281" rel="nofollow">DNA repair</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042493" rel="nofollow">response to drug</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0006294" rel="nofollow">nucleotide-excision repair, preincision complex assembly</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000717" rel="nofollow">nucleotide-excision repair, DNA duplex unwinding</a><br/></span></td>
+</tr>
+<tr>
+<td colspan="4" style="background-color:#eee;text-align:center">Sources:<a class="external text" href="http://amigo.geneontology.org/" rel="nofollow">Amigo</a> / <a class="external text" href="https://www.ebi.ac.uk/QuickGO/" rel="nofollow">QuickGO</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Orthologs</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Species</th>
+<td><b>Human</b></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/Entrez" title="Entrez">Entrez</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=7508&amp;rn=1" rel="nofollow">7508</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=22591&amp;rn=1" rel="nofollow">22591</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a class="mw-redirect" href="/wiki/Ensembl" title="Ensembl">Ensembl</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks">n/a</p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000030094;db=core" rel="nofollow">ENSMUSG00000030094</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/UniProt" title="UniProt">UniProt</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/Q01831" rel="nofollow">Q01831</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/P51612" rel="nofollow">P51612</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (mRNA)</th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001145769" rel="nofollow">NM_001145769</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_004628" rel="nofollow">NM_004628</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_009531" rel="nofollow">NM_009531</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (protein)</th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_004619" rel="nofollow">NP_004619</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001341655" rel="nofollow">NP_001341655</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001341656" rel="nofollow">NP_001341656</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001341658" rel="nofollow">NP_001341658</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001341659" rel="nofollow">NP_001341659</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_033557" rel="nofollow">NP_033557</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Location (UCSC)</th>
+<td><span class="plainlinks">n/a</span></td>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&amp;db=mm0&amp;position=chr:91489305-91515888" rel="nofollow">Chr : 91.49 – 91.52 Mb</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/PubMed" title="PubMed">PubMed</a> search</th>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></span></td>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:center">
+<tr>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q18032390" title="d:Q18032390">View/Edit Human</a></td>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q18255396" title="d:Q18255396">View/Edit Mouse</a></td>
+</tr>
+</table>
+</td>
+</tr>
+

@@ -1,0 +1,347 @@
+<table class="infobox" style="width:26.4em">
+<tr>
+<th colspan="4" style="text-align:center;font-size:125%;font-weight:bold">NDE1</th>
+</tr>
+
+<tr>
+<td colspan="4" style="text-align:center"></td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Identifiers</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><span class="plainlinks"><a href="/wiki/Gene_nomenclature" title="Gene nomenclature">Aliases</a></span></th>
+<td colspan="3" style="background:#eee"><span class="plainlinks"><a class="external text" href="http://www.genenames.org/cgi-bin/gene_symbol_report?hgnc_id=17619" rel="nofollow">NDE1</a></span>, HOM-TES-87, LIS4, MHAC, NDE, NUDE, NUDE1, nudE neurodevelopment protein 1</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">External IDs</th>
+<td colspan="3" style="background-color:#eee"><span class="plainlinks"><a href="/wiki/Mouse_Genome_Informatics" title="Mouse Genome Informatics">MGI:</a> <a class="external text" href="http://www.informatics.jax.org/marker/MGI:1914453" rel="nofollow">1914453</a> <a href="/wiki/HomoloGene" title="HomoloGene">HomoloGene:</a> <a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=homologene&amp;dopt=HomoloGene&amp;list_uids=32354" rel="nofollow">32354</a> <a href="/wiki/GeneCards" title="GeneCards">GeneCards:</a> <a class="external text" href="https://www.genecards.org/cgi-bin/carddisp.pl?gene=NDE1" rel="nofollow">NDE1</a></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible expand" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Human)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_human_chromosome_16.svg" title="Chromosome 16 (human)"><img alt="Chromosome 16 (human)" data-file-height="189" data-file-width="474" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ideogram_human_chromosome_16.svg/300px-Ideogram_human_chromosome_16.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ideogram_human_chromosome_16.svg/450px-Ideogram_human_chromosome_16.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ideogram_human_chromosome_16.svg/600px-Ideogram_human_chromosome_16.svg.png 2x" width="300"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks"><a href="/wiki/Chromosome_16_(human)" title="Chromosome 16 (human)">Chromosome 16 (human)</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-0"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Human_chromosome_16_ideogram.svg" title="Chromosome 16 (human)"><img alt="Chromosome 16 (human)" data-file-height="216" data-file-width="1125" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Human_chromosome_16_ideogram.svg/300px-Human_chromosome_16_ideogram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Human_chromosome_16_ideogram.svg/450px-Human_chromosome_16_ideogram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Human_chromosome_16_ideogram.svg/600px-Human_chromosome_16_ideogram.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 45.668274016886px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for NDE1"><img alt="Genomic location for NDE1" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 51.7px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for NDE1"><img alt="Genomic location for NDE1" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">16p13.11</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">15,643,267 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-1"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">15,726,353 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCh38Ensembl_1-2"><a href="#cite_note-refGRCh38Ensembl-1">[1]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Gene location (Mouse)</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:Ideogram_house_mouse_chromosome_16.svg" title="Chromosome 16 (mouse)"><img alt="Chromosome 16 (mouse)" data-file-height="200" data-file-width="470" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ideogram_house_mouse_chromosome_16.svg/260px-Ideogram_house_mouse_chromosome_16.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ideogram_house_mouse_chromosome_16.svg/390px-Ideogram_house_mouse_chromosome_16.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ideogram_house_mouse_chromosome_16.svg/520px-Ideogram_house_mouse_chromosome_16.svg.png 2x" width="260"/></a></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Chromosome" title="Chromosome">Chr.</a></th>
+<td colspan="3" style="background-color:#eee" width="85%"><span class="plainlinks">Chromosome 16 (mouse)<sup class="reference" id="cite_ref-refGRCm38Ensembl_2-0"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<div align="center">
+<div style="position: relative; width: 300px;"><a class="image" href="/wiki/File:Ideogram_of_house_mouse_chromosome_16.svg" title="Chromosome 16 (mouse)"><img alt="Chromosome 16 (mouse)" data-file-height="231" data-file-width="1200" height="58" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ideogram_of_house_mouse_chromosome_16.svg/300px-Ideogram_of_house_mouse_chromosome_16.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ideogram_of_house_mouse_chromosome_16.svg/450px-Ideogram_of_house_mouse_chromosome_16.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ideogram_of_house_mouse_chromosome_16.svg/600px-Ideogram_of_house_mouse_chromosome_16.svg.png 2x" width="300"/></a>
+<div style="position: absolute; left: 37.063548953885px; top: 2px; padding: 0;"><a class="image" href="/wiki/File:HSR_1996_II_3.5e.svg" title="Genomic location for NDE1"><img alt="Genomic location for NDE1" data-file-height="142" data-file-width="142" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/14px-HSR_1996_II_3.5e.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/21px-HSR_1996_II_3.5e.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d8/HSR_1996_II_3.5e.svg/28px-HSR_1996_II_3.5e.svg.png 2x" width="14"/></a></div>
+<div style="position: absolute; left: 43.1px; top: 19px; padding: 0;"><a class="image" href="/wiki/File:Red_rectangle_2x18.png" title="Genomic location for NDE1"><img alt="Genomic location for NDE1" data-file-height="18" data-file-width="2" height="18" src="//upload.wikimedia.org/wikipedia/commons/6/6a/Red_rectangle_2x18.png" width="2"/></a></div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th rowspan="2" scope="row" style="background-color:#c3fdb8" width="15%"><a href="/wiki/Locus_(genetics)" title="Locus (genetics)">Band</a></th>
+<td rowspan="2" style="background-color:#eee" width="35%"><span class="plainlinks">16|16 A1</span></td>
+<th scope="row" style="background-color:#c3fdb8">Start</th>
+<td style="background-color:#eee"><span class="plainlinks">14,163,275 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_2-1"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">End</th>
+<td style="background-color:#eee"><span class="plainlinks">14,192,928 <a href="/wiki/Base_pair" title="Base pair">bp</a><sup class="reference" id="cite_ref-refGRCm38Ensembl_2-2"><a href="#cite_note-refGRCm38Ensembl-2">[2]</a></sup></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible expand" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_expression" title="Gene expression">RNA expression</a> pattern</th>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><a class="image" href="/wiki/File:PBB_GE_NDE1_218414_s_at_fs.png"><img alt="PBB GE NDE1 218414 s at fs.png" data-file-height="530" data-file-width="732" height="181" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/PBB_GE_NDE1_218414_s_at_fs.png/250px-PBB_GE_NDE1_218414_s_at_fs.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/PBB_GE_NDE1_218414_s_at_fs.png/375px-PBB_GE_NDE1_218414_s_at_fs.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/PBB_GE_NDE1_218414_s_at_fs.png/500px-PBB_GE_NDE1_218414_s_at_fs.png 2x" width="250"/></a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee"><span class="plainlinks"><a class="external text" href="http://biogps.org/gene/54820/" rel="nofollow">More reference expression data</a></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;background-color:#eee">
+<table class="collapsible collapsed" style="padding:0;border:none;margin:0;width:100%;text-align:left">
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd"><a href="/wiki/Gene_ontology" title="Gene ontology">Gene ontology</a></th>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Molecular function</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0019904" rel="nofollow">protein domain specific binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005515" rel="nofollow">protein binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0042802" rel="nofollow">identical protein binding</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0008017" rel="nofollow">microtubule binding</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Cellular component</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005737" rel="nofollow">cytoplasm</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000777" rel="nofollow">condensed chromosome kinetochore</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005829" rel="nofollow">cytosol</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005813" rel="nofollow">centrosome</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016020" rel="nofollow">membrane</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005819" rel="nofollow">spindle</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031616" rel="nofollow">spindle pole centrosome</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0045202" rel="nofollow">synapse</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005694" rel="nofollow">chromosome</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005815" rel="nofollow">microtubule organizing center</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0032154" rel="nofollow">cleavage furrow</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005874" rel="nofollow">microtubule</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000775" rel="nofollow">chromosome, centromeric region</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005856" rel="nofollow">cytoskeleton</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000776" rel="nofollow">kinetochore</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0005871" rel="nofollow">kinesin complex</a><br/></span></td>
+</tr>
+<tr>
+<th style="background-color:#c3fdb8">Biological process</th>
+<td style="background-color:#eee"><span class="plainlinks"><big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030154" rel="nofollow">cell differentiation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051298" rel="nofollow">centrosome duplication</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051303" rel="nofollow">establishment of chromosome localization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0001764" rel="nofollow">neuron migration</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007399" rel="nofollow">nervous system development</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051301" rel="nofollow">cell division</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007275" rel="nofollow">multicellular organism development</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000086" rel="nofollow">G2/M transition of mitotic cell cycle</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0000132" rel="nofollow">establishment of mitotic spindle orientation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0021987" rel="nofollow">cerebral cortex development</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007405" rel="nofollow">neuroblast proliferation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007049" rel="nofollow">cell cycle</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0030900" rel="nofollow">forebrain development</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0031023" rel="nofollow">microtubule organizing center organization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:2000574" rel="nofollow">regulation of microtubule motor activity</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007062" rel="nofollow">sister chromatid cohesion</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0097711" rel="nofollow">ciliary basal body docking</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007020" rel="nofollow">microtubule nucleation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007059" rel="nofollow">chromosome segregation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0007100" rel="nofollow">mitotic centrosome separation</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0016477" rel="nofollow">cell migration</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0047496" rel="nofollow">vesicle transport along microtubule</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0051642" rel="nofollow">centrosome localization</a><br/>
+<big>•</big> <a class="external text" href="http://amigo.geneontology.org/amigo/term/GO:0010389" rel="nofollow">regulation of G2/M transition of mitotic cell cycle</a><br/></span></td>
+</tr>
+<tr>
+<td colspan="4" style="background-color:#eee;text-align:center">Sources:<a class="external text" href="http://amigo.geneontology.org/" rel="nofollow">Amigo</a> / <a class="external text" href="https://www.ebi.ac.uk/QuickGO/" rel="nofollow">QuickGO</a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th colspan="4" style="text-align:center;background-color:#ddd">Orthologs</th>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Species</th>
+<td><b>Human</b></td>
+<td><b>Mouse</b></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/Entrez" title="Entrez">Entrez</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=54820&amp;rn=1" rel="nofollow">54820</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=gene&amp;cmd=retrieve&amp;dopt=default&amp;list_uids=67203&amp;rn=1" rel="nofollow">67203</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a class="mw-redirect" href="/wiki/Ensembl" title="Ensembl">Ensembl</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000072864;db=core" rel="nofollow">ENSG00000072864</a><br/>
+<a class="external text" href="http://www.ensembl.org/Homo_sapiens/geneview?gene=ENSG00000275911;db=core" rel="nofollow">ENSG00000275911</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.ensembl.org/Mus_musculus/geneview?gene=ENSMUSG00000022678;db=core" rel="nofollow">ENSMUSG00000022678</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/UniProt" title="UniProt">UniProt</a></th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/Q9NXR1" rel="nofollow">Q9NXR1</a></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p class="plainlinks"><a class="external text" href="http://www.uniprot.org/uniprot/Q9CZA6" rel="nofollow">Q9CZA6</a></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (mRNA)</th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001143979" rel="nofollow">NM_001143979</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_017668" rel="nofollow">NM_017668</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001114085" rel="nofollow">NM_001114085</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001285503" rel="nofollow">NM_001285503</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_001285504" rel="nofollow">NM_001285504</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NM_023317" rel="nofollow">NM_023317</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">RefSeq (protein)</th>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001137451" rel="nofollow">NP_001137451</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_060138" rel="nofollow">NP_060138</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+<td>
+<table class="none" style="padding:0;border:none;margin:0;width:100%;text-align:right">
+<tr>
+<th class="plainlinks" colspan="1"></th>
+</tr>
+<tr>
+<td colspan="1">
+<p><span class="plainlinks"><a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001107557" rel="nofollow">NP_001107557</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001272432" rel="nofollow">NP_001272432</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_001272433" rel="nofollow">NP_001272433</a><br/>
+<a class="external text" href="https://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?val=NP_075806" rel="nofollow">NP_075806</a></span></p>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8">Location (UCSC)</th>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Human&amp;db=hg38&amp;position=chr16:15643267-15726353" rel="nofollow">Chr 16: 15.64 – 15.73 Mb</a></span></td>
+<td><span class="plainlinks"><a class="external text" href="https://genome.ucsc.edu/cgi-bin/hgTracks?org=Mouse&amp;db=mm0&amp;position=chr16:14163275-14192928" rel="nofollow">Chr 16: 14.16 – 14.19 Mb</a></span></td>
+</tr>
+<tr>
+<th scope="row" style="background-color:#c3fdb8"><a href="/wiki/PubMed" title="PubMed">PubMed</a> search</th>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></span></td>
+<td><span class="plainlinks"><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></span></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee"><a href="/wiki/Wikidata" title="Wikidata">Wikidata</a></td>
+</tr>
+<tr>
+<td colspan="4" style="text-align:center;font-size:x-small;background-color:#eee">
+<table style="padding:0;border:none;margin:0;width:100%;text-align:center">
+<tr>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q18041282" title="d:Q18041282">View/Edit Human</a></td>
+<td colspan="2" style="background-color:#eee;text-align:center;font-size:x-small"><a class="extiw" href="https://www.wikidata.org/wiki/Q18262360" title="d:Q18262360">View/Edit Mouse</a></td>
+</tr>
+</table>
+</td>
+</tr>
+
