@@ -1,0 +1,177 @@
+group,P_name,S_name,n
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,BRAF,2
+Biliary Tract Cancer,ASSOCIATED_WITH,BRAF,3
+Cholangiocarcinoma,ASSOCIATED_WITH,BRAF,4
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,BRAF,1
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,PTEN,3
+Biliary Tract Cancer,ASSOCIATED_WITH,PTEN,3
+Cholangiocarcinoma,CAUSES,PTEN,2
+Cholangiocarcinoma,DISRUPTS,PTEN,2
+Cholangiocarcinoma,ASSOCIATED_WITH,PTEN,3
+Gallbladder Carcinoma,ASSOCIATED_WITH,PTEN,5
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,PTEN,10
+Extrahepatic Cholangiocarcinoma,AFFECTS,PTEN,1
+Biliary Tract Cancer,ASSOCIATED_WITH,SMAD4,6
+Cholangiocarcinoma,CAUSES,SMAD4,2
+Cholangiocarcinoma,DISRUPTS,SMAD4,2
+Cholangiocarcinoma,ASSOCIATED_WITH,SMAD4,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,SMAD4,5
+Intrahepatic Cholangiocarcinoma,AFFECTS,SMAD4,2
+Extrahepatic Cholangiocarcinoma,AFFECTS,SMAD4,2
+Biliary Tract Cancer,ASSOCIATED_WITH,CDKN2A,2
+Cholangiocarcinoma,AFFECTS,CDKN2A,1
+Cholangiocarcinoma,ASSOCIATED_WITH,CDKN2A,3
+Cholangiocarcinoma,DISRUPTS,CDKN2A,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,CDKN2A,7
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CDKN2A,5
+Intrahepatic Cholangiocarcinoma,AFFECTS,CDKN2A,2
+Extrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CDKN2A,2
+Biliary Tract Cancer,CAUSES,FAS,1
+Cholangiocarcinoma,ASSOCIATED_WITH,FAS,1
+Intrahepatic Cholangiocarcinoma,CAUSES,FAS,1
+Biliary Tract Cancer,ASSOCIATED_WITH,ARID1A,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,ARID1A,4
+Biliary Tract Cancer,ASSOCIATED_WITH,TP53,2
+Biliary Tract Cancer,AFFECTS,TP53,1
+Cholangiocarcinoma,ASSOCIATED_WITH,TP53,17
+Cholangiocarcinoma,CAUSES,TP53,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,TP53,17
+Intrahepatic Cholangiocarcinoma,CAUSES,TP53,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,TP53,21
+Intrahepatic Cholangiocarcinoma,AFFECTS,TP53,2
+Extrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,TP53,4
+Biliary Tract Cancer,ASSOCIATED_WITH,CD4,1
+Extrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CD4,1
+Biliary Tract Cancer,ASSOCIATED_WITH,DCC,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,DCC,2
+Extrahepatic Cholangiocarcinoma,AFFECTS,DCC,1
+Biliary Tract Cancer,ASSOCIATED_WITH,DPYD,1
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,DPYD,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,DPYD,2
+Biliary Tract Cancer,ASSOCIATED_WITH,ERBB2,3
+Cholangiocarcinoma,ASSOCIATED_WITH,ERBB2,3
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,ERBB2,1
+Biliary Tract Cancer,ASSOCIATED_WITH,GCLC,1
+Biliary Tract Cancer,ASSOCIATED_WITH,GRN,2
+Biliary Tract Cancer,ASSOCIATED_WITH,LRG1,1
+Biliary Tract Cancer,ASSOCIATED_WITH,MGMT,1
+Gallbladder Carcinoma,AFFECTS,MGMT,1
+Biliary Tract Cancer,ASSOCIATED_WITH,MUC4,1
+Cholangiocarcinoma,ASSOCIATED_WITH,MUC4,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,MUC4,3
+Biliary Tract Cancer,ASSOCIATED_WITH,MUC5AC,2
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,MUC5AC,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,MUC5AC,3
+Biliary Tract Cancer,ASSOCIATED_WITH,PIK3CA,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,PIK3CA,1
+Biliary Tract Cancer,ASSOCIATED_WITH,RUNX3,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,RUNX3,3
+Biliary Tract Cancer,ASSOCIATED_WITH,SFRP1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,SFRP1,2
+Biliary Tract Cancer,ASSOCIATED_WITH,SHOX2,1
+Biliary Tract Cancer,ASSOCIATED_WITH,SOX9,1
+Biliary Tract Cancer,ASSOCIATED_WITH,XRCC1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,XRCC1,2
+Biliary Tract Cancer,ASSOCIATED_WITH,MUC1,1
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,MUC1,2
+Cholangiocarcinoma,ASSOCIATED_WITH,MUC1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,MUC1,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,MUC1,3
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,BCL2L1,4
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,BCL2L1,1
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,BAK1,2
+Carcinoma of ampulla of Vater,ASSOCIATED_WITH,SPARC,2
+Cholangiocarcinoma,ASSOCIATED_WITH,SDC2,4
+Cholangiocarcinoma,ASSOCIATED_WITH,EPCAM,4
+Gallbladder Carcinoma,ASSOCIATED_WITH,EPCAM,3
+Cholangiocarcinoma,ASSOCIATED_WITH,EZH2,4
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,EZH2,1
+Cholangiocarcinoma,ASSOCIATED_WITH,PKHD1,4
+Cholangiocarcinoma,ASSOCIATED_WITH,PROX1,4
+Cholangiocarcinoma,ASSOCIATED_WITH,PTGS2,6
+Cholangiocarcinoma,AUGMENTS,PTGS2,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,PTGS2,8
+Gallbladder Carcinoma,AUGMENTS,PTGS2,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,PTGS2,3
+Cholangiocarcinoma,ASSOCIATED_WITH,VIM,4
+Gallbladder Carcinoma,ASSOCIATED_WITH,VIM,1
+Cholangiocarcinoma,ASSOCIATED_WITH,AFP,4
+Gallbladder Carcinoma,ASSOCIATED_WITH,AFP,2
+Intrahepatic Cholangiocarcinoma,CAUSES,AFP,6
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,AFP,15
+Cholangiocarcinoma,ASSOCIATED_WITH,SEMA3B,1
+Cholangiocarcinoma,ASSOCIATED_WITH,KRT7,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,KRT7,1
+Cholangiocarcinoma,ASSOCIATED_WITH,DAPK1,1
+Cholangiocarcinoma,ASSOCIATED_WITH,FABP1,1
+Cholangiocarcinoma,ASSOCIATED_WITH,IDH1,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,IDH1,3
+Cholangiocarcinoma,ASSOCIATED_WITH,MUC16,1
+Cholangiocarcinoma,ASSOCIATED_WITH,NEK2,1
+Cholangiocarcinoma,ASSOCIATED_WITH,NR1I2,1
+Cholangiocarcinoma,ASSOCIATED_WITH,NR1I3,1
+Cholangiocarcinoma,ASSOCIATED_WITH,RBP1,1
+Cholangiocarcinoma,ASSOCIATED_WITH,RHOC,1
+Cholangiocarcinoma,ASSOCIATED_WITH,SLC22A1,1
+Cholangiocarcinoma,ASSOCIATED_WITH,SLC22A3,2
+Cholangiocarcinoma,AUGMENTS,SNAI1,1
+Klatskin's Tumor,DISRUPTS,SNAI1,1
+Cholangiocarcinoma,ASSOCIATED_WITH,SOX4,1
+Cholangiocarcinoma,ASSOCIATED_WITH,TACSTD2,1
+Klatskin's Tumor,ASSOCIATED_WITH,TACSTD2,6
+Cholangiocarcinoma,ASSOCIATED_WITH,TP73,2
+Klatskin's Tumor,ASSOCIATED_WITH,TP73,2
+Cholangiocarcinoma,ASSOCIATED_WITH,TPM1,1
+Cholangiocarcinoma,ASSOCIATED_WITH,WWOX,5
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,WWOX,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,DICER1,1
+Intrahepatic Cholangiocarcinoma,PREVENTS,DICER1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,EPHA7,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,FCGBP,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,HGF,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,NT5E,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,APC,3
+Extrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,APC,2
+Gallbladder Carcinoma,DISRUPTS,APOA1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,BIRC5,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,BIRC5,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,CCNE1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,CD151,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CD151,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,CIZ1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,CLIC1,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,E2F1,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,E2F1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,ESR1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,JAG1,1
+Gallbladder Carcinoma,AFFECTS,NR1H4,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,PEBP1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,PLK1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,ROBO1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,SHH,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,SSBP2,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,STMN1,2
+Gallbladder Carcinoma,ASSOCIATED_WITH,TIMP1,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,TOP2A,1
+Gallbladder Carcinoma,AUGMENTS,TOP2A,1
+Gallbladder Carcinoma,ASSOCIATED_WITH,UHRF1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CAPNS1,6
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,AKT1,1
+Intrahepatic Cholangiocarcinoma,AFFECTS,CCND1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CCND1,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,CPS1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,HMGA2,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,NOTCH1,3
+Intrahepatic Cholangiocarcinoma,AFFECTS,NOTCH1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,RASA1,2
+Intrahepatic Cholangiocarcinoma,AUGMENTS,S100A11,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,SERPINH1,1
+Klatskin's Tumor,AFFECTS,PRR11,2
+Klatskin's Tumor,ASSOCIATED_WITH,SLC38A1,3
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,DNMT1,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,XRCC3,2
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,ABCC1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,AURKB,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,AXIN1,1
+Intrahepatic Cholangiocarcinoma,ASSOCIATED_WITH,TAT,2
+Intrahepatic Cholangiocarcinoma,AFFECTS,THY1,1

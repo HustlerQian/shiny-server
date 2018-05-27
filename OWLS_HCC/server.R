@@ -15,6 +15,9 @@ shinyServer(function(input, output,session) {
     #Select by filter Widgets
     #Filter by Relationship
     rdf=rdf[which(rdf$P_name %in% input$Relation),]
+    #Filter by Group
+    rdf=rdf[which(rdf$S_SMTY %in% groups()),]
+    rdf=rdf[which(rdf$O_SMTY %in% groups()),]
     rdf
   })
   #Nodes
