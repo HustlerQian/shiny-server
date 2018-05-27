@@ -23,7 +23,9 @@ shinyUI(fluidPage(
                  'Upload a Network file:',
                  accept = c("text/csv",
                             "text/comma-separated-values,text/plain",
-                            ".csv"))
+                            ".csv")),
+       uiOutput('DemoFlag'),
+       uiOutput('HelpMSG')
     ),
     
     # Show a plot of the generated distribution

@@ -12,9 +12,13 @@ library(visNetwork)
 library(stringr)
 # Define server logic required to draw a visnetwork
 shinyServer(function(input, output) {
-  
+  #Data for plot
   net.df <- reactive({
-    req(input$Input)
+    #req(input$Input)
+    if(is.null(input$Input)){
+      net.df <- read.csv('./demo_data/CHOL.csv',header = T,stringsAsFactors = F)
+      return(net.df)
+      }
     #net.df <- read.csv('./demo_data/CHOL.csv',header = T,stringsAsFactors = F)
     net.df <- read.csv(input$Input$datapath,
                        header = T,
@@ -23,9 +27,36 @@ shinyServer(function(input, output) {
     return(net.df)
     }
   )
-  
+  #DemoFlag
+  output$DemoFlag <- renderUI({
+    if(is.null(input$Input)){
+     tagList(
+    
+      #Tell Users default network
+      HTML('<p><font color ="red">Using Demo Dataset Now<br>Plz uploading your csv file.<br></font></p>')
+   )
+      }
+  })
+  #HelpMSG
+  output$HelpMSG <- renderUI({
+    tagList(
+      #Write for input data format
+      #HTML('<p>Demo Dataset:<br><p>'),
+      downloadButton('DownloadDD',label ='Demo Dataset' )
+      )
+  })
+  # Downloadable csv of selected dataset ----
+  output$DownloadDD <- downloadHandler(
+    filename = function() {
+      paste('DemoDataset', ".csv", sep = "")
+    },
+    content = function(file) {
+      file.copy(normalizePath('./demo_data/CHOL.csv'), file)
+    }
+  )
+  #Plot function
   output$Network <- renderVisNetwork({
-    req(input$Input)
+    #req(input$Input)
     chol <- net.df()
     
     #Nodes df
@@ -64,7 +95,12 @@ shinyServer(function(input, output) {
       visGroups(groupname = "cancer", color = "#F45B24") %>%
       visGroups(groupname = "gene", color = "#547B94") %>%
       visPhysics(stabilization = T)%>%
-      visLegend(addEdges = ledges)
+      visLegend(addEdges = ledges) %>%
+      visLayout(randomSeed = 123) %>%
+      visOptions(manipulation = TRUE) %>%
+      #Configure options 
+      #visConfigure(enabled = TRUE) %>%
+      visExport(type = 'jpeg')
     cancer_chol_network
   })
   
