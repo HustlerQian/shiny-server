@@ -1,0 +1,186 @@
+bcr_patient_barcode	Gender	Race	Family_History	Histologic_Diagnosis	AJCC_Metastasis	Tumor_Stage	Age
+TCGA-2H-A9GF	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	67
+TCGA-2H-A9GG	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	66
+TCGA-2H-A9GH	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	44
+TCGA-2H-A9GI	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	68
+TCGA-2H-A9GJ	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	57
+TCGA-2H-A9GK	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	43
+TCGA-2H-A9GL	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	74
+TCGA-2H-A9GM	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	53
+TCGA-2H-A9GN	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	70
+TCGA-2H-A9GO	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IVA	58
+TCGA-2H-A9GQ	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	80
+TCGA-2H-A9GR	MALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIA	80
+TCGA-IC-A6RE	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	59
+TCGA-IC-A6RF	FEMALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	M0	Stage IA	69
+TCGA-IG-A3I8	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	51
+TCGA-IG-A3QL	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	54
+TCGA-IG-A3Y9	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIA	72
+TCGA-IG-A3YA	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIA	53
+TCGA-IG-A3YB	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIA	61
+TCGA-IG-A3YC	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIA	62
+TCGA-IG-A4P3	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	48
+TCGA-IG-A4QS	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIB	71
+TCGA-IG-A4QT	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	56
+TCGA-IG-A50L	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIIA	58
+TCGA-IG-A51D	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M1	Stage IIB	63
+TCGA-IG-A5B8	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IB	72
+TCGA-IG-A5S3	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	69
+TCGA-IG-A625	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIB	60
+TCGA-IG-A6QS	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	54
+TCGA-IG-A7DP	FEMALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIA	50
+TCGA-IG-A8O2	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIB	62
+TCGA-IG-A97H	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	36
+TCGA-IG-A97I	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	58
+TCGA-JY-A6F8	MALE	WHITE	YES	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	56
+TCGA-JY-A6FA	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	51
+TCGA-JY-A6FB	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	77
+TCGA-JY-A6FD	FEMALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	51
+TCGA-JY-A6FE	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage III	49
+TCGA-JY-A6FG	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage III	50
+TCGA-JY-A6FH	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	53
+TCGA-JY-A938	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	75
+TCGA-JY-A939	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	77
+TCGA-JY-A93C	MALE	ASIAN	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIB	47
+TCGA-JY-A93D	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIC	51
+TCGA-JY-A93E	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIA	61
+TCGA-JY-A93F	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IB	58
+TCGA-KH-A6WC	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IA	82
+TCGA-L5-A43C	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	MX	Unknown	81
+TCGA-L5-A43E	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	74
+TCGA-L5-A43H	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage III	75
+TCGA-L5-A43I	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIA	77
+TCGA-L5-A43J	MALE	WHITE	YES	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	90
+TCGA-L5-A43M	FEMALE	Unknown	NO	Esophagus Adenocarcinoma, NOS	Unknown	Unknown	84
+TCGA-L5-A4OE	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIB	81
+TCGA-L5-A4OF	MALE	WHITE	YES	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	63
+TCGA-L5-A4OG	FEMALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	79
+TCGA-L5-A4OH	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	71
+TCGA-L5-A4OI	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIC	79
+TCGA-L5-A4OJ	FEMALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	70
+TCGA-L5-A4OM	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IA	54
+TCGA-L5-A4ON	MALE	WHITE	YES	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	65
+TCGA-L5-A4OO	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIC	75
+TCGA-L5-A4OP	FEMALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IA	67
+TCGA-L5-A4OQ	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIA	75
+TCGA-L5-A4OR	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IA	83
+TCGA-L5-A4OS	FEMALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	86
+TCGA-L5-A4OT	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IV	77
+TCGA-L5-A4OU	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIA	81
+TCGA-L5-A4OW	FEMALE	Unknown	YES	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	56
+TCGA-L5-A4OX	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	60
+TCGA-L5-A88S	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IB	84
+TCGA-L5-A88T	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	86
+TCGA-L5-A88V	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	60
+TCGA-L5-A88W	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	67
+TCGA-L5-A88Y	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Unknown	76
+TCGA-L5-A88Z	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	70
+TCGA-L5-A891	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Unknown	51
+TCGA-L5-A893	FEMALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage I	71
+TCGA-L5-A8NE	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	77
+TCGA-L5-A8NF	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IVA	57
+TCGA-L5-A8NG	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	77
+TCGA-L5-A8NH	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IV	54
+TCGA-L5-A8NI	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	79
+TCGA-L5-A8NJ	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	77
+TCGA-L5-A8NK	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	84
+TCGA-L5-A8NL	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	56
+TCGA-L5-A8NM	FEMALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	84
+TCGA-L5-A8NN	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	81
+TCGA-L5-A8NQ	MALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	71
+TCGA-L5-A8NR	FEMALE	Unknown	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage III	81
+TCGA-L5-A8NS	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	76
+TCGA-L5-A8NT	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	69
+TCGA-L5-A8NU	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIA	84
+TCGA-L5-A8NV	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIA	75
+TCGA-L5-A8NW	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Unknown	55
+TCGA-L7-A56G	MALE	BLACK OR AFRICAN AMERICAN	NO	Esophagus Squamous Cell Carcinoma	M0	Unknown	65
+TCGA-L7-A6VZ	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIC	62
+TCGA-LN-A49K	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	66
+TCGA-LN-A49L	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	44
+TCGA-LN-A49M	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	62
+TCGA-LN-A49N	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIB	50
+TCGA-LN-A49O	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	47
+TCGA-LN-A49P	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	71
+TCGA-LN-A49R	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage III	46
+TCGA-LN-A49S	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	59
+TCGA-LN-A49U	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	62
+TCGA-LN-A49V	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	49
+TCGA-LN-A49W	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage III	73
+TCGA-LN-A49X	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	44
+TCGA-LN-A49Y	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	77
+TCGA-LN-A4A1	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	60
+TCGA-LN-A4A2	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	57
+TCGA-LN-A4A3	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage III	61
+TCGA-LN-A4A4	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage III	36
+TCGA-LN-A4A5	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	49
+TCGA-LN-A4A6	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage II	65
+TCGA-LN-A4A8	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	52
+TCGA-LN-A4A9	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	58
+TCGA-LN-A4MQ	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage III	46
+TCGA-LN-A4MR	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	57
+TCGA-LN-A5U5	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IV	57
+TCGA-LN-A5U6	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	54
+TCGA-LN-A5U7	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	46
+TCGA-LN-A7HV	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	58
+TCGA-LN-A7HW	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	59
+TCGA-LN-A7HX	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	72
+TCGA-LN-A7HY	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage III	50
+TCGA-LN-A7HZ	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	49
+TCGA-LN-A8HZ	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	56
+TCGA-LN-A8I0	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	52
+TCGA-LN-A8I1	FEMALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	67
+TCGA-LN-A9FO	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	42
+TCGA-LN-A9FP	FEMALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	60
+TCGA-LN-A9FQ	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	62
+TCGA-LN-A9FR	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	70
+TCGA-M9-A5M8	MALE	Unknown	YES	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIA	58
+TCGA-Q9-A6FU	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIB	57
+TCGA-Q9-A6FW	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIB	61
+TCGA-R6-A6DN	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M1	Unknown	58
+TCGA-R6-A6DQ	FEMALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	74
+TCGA-R6-A6KZ	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M1	Unknown	42
+TCGA-R6-A6L4	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	27
+TCGA-R6-A6L6	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M1	Unknown	68
+TCGA-R6-A6XG	MALE	WHITE	YES	Esophagus Adenocarcinoma, NOS	M0	Unknown	64
+TCGA-R6-A6XQ	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M1b	Unknown	58
+TCGA-R6-A6Y0	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M1a	Unknown	54
+TCGA-R6-A6Y2	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	71
+TCGA-R6-A8W5	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Stage IVA	60
+TCGA-R6-A8W8	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	72
+TCGA-R6-A8WC	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	56
+TCGA-R6-A8WG	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	60
+TCGA-RE-A7BO	FEMALE	WHITE	YES	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIB	72
+TCGA-S8-A6BV	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	MX	Stage IIIA	76
+TCGA-S8-A6BW	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IB	51
+TCGA-V5-A7RB	MALE	Unknown	YES	Esophagus Adenocarcinoma, NOS	MX	Unknown	59
+TCGA-V5-A7RC	MALE	BLACK OR AFRICAN AMERICAN	NO	Esophagus Squamous Cell Carcinoma	M1	Unknown	55
+TCGA-V5-A7RE	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Stage IB	45
+TCGA-V5-AASV	MALE	BLACK OR AFRICAN AMERICAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	67
+TCGA-V5-AASW	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Unknown	72
+TCGA-V5-AASX	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	M1	Unknown	74
+TCGA-VR-A8EO	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	49
+TCGA-VR-A8EP	MALE	WHITE	YES	Esophagus Squamous Cell Carcinoma	M0	Stage IIIB	51
+TCGA-VR-A8EQ	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	M0	Stage III	73
+TCGA-VR-A8ER	MALE	Unknown	NO	Esophagus Squamous Cell Carcinoma	M0	Stage III	54
+TCGA-VR-A8ET	MALE	WHITE	YES	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	64
+TCGA-VR-A8EU	MALE	WHITE	YES	Esophagus Squamous Cell Carcinoma	M1	Stage IV	51
+TCGA-VR-A8EW	MALE	ASIAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIIB	57
+TCGA-VR-A8EX	MALE	Unknown	NO	Esophagus Squamous Cell Carcinoma	M1a	Stage IVA	63
+TCGA-VR-A8EY	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIA	44
+TCGA-VR-A8EZ	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIIC	47
+TCGA-VR-A8Q7	MALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIIA	60
+TCGA-VR-AA4D	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	M0	Stage IIB	53
+TCGA-VR-AA4G	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIIA	51
+TCGA-VR-AA7B	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IV	65
+TCGA-VR-AA7D	MALE	Unknown	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIIC	58
+TCGA-VR-AA7I	MALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	M0	Stage III	70
+TCGA-X8-AAAR	MALE	WHITE	NO	Esophagus Adenocarcinoma, NOS	Unknown	Unknown	69
+TCGA-XP-A8T6	MALE	BLACK OR AFRICAN AMERICAN	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	54
+TCGA-XP-A8T7	FEMALE	WHITE	NO	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	63
+TCGA-XP-A8T8	MALE	BLACK OR AFRICAN AMERICAN	NO	Esophagus Squamous Cell Carcinoma	M0	Stage IIB	49
+TCGA-Z6-A8JD	MALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIB	53
+TCGA-Z6-A8JE	MALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	M0	Stage IIIA	57
+TCGA-Z6-A9VB	MALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIIA	53
+TCGA-Z6-AAPN	MALE	WHITE	Unknown	Esophagus Squamous Cell Carcinoma	Unknown	Stage IIA	57
+TCGA-ZR-A9CJ	MALE	WHITE	Unknown	Esophagus Adenocarcinoma, NOS	Unknown	Stage IIIC	65

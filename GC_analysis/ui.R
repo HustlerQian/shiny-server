@@ -14,7 +14,7 @@ library(shiny)
 shinyUI(fluidPage(
   
   # Application title
-  titlePanel("Heatmap analysis for Stomach Cancer"),
+  titlePanel("Cluster analysis for Stomach Cancer"),
   tabPanel('All',
            column(3,
                   wellPanel(

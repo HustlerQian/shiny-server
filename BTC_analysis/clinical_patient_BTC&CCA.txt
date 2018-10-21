@@ -1,0 +1,46 @@
+bcr_patient_barcode	Gender	Race	Family_History	Histologic_Diagnosis	AJCC_Metastasis	Vascular_Invasion	Perineural_Invasion	Age
+TCGA-3X-AAV9	MALE	ASIAN	YES	intrahepatic	M0	None	YES	72
+TCGA-3X-AAVA	FEMALE	WHITE	NO	intrahepatic	M0	None	YES	50
+TCGA-3X-AAVB	FEMALE	WHITE	NO	distal	M1	None	YES	70
+TCGA-3X-AAVC	FEMALE	WHITE	Unknown	hilar/perihilar	M0	None	NO	72
+TCGA-3X-AAVE	MALE	ASIAN	Unknown	intrahepatic	M0	Micro	NO	60
+TCGA-4G-AAZF	FEMALE	WHITE	NO	intrahepatic	MX	None	NO	74
+TCGA-4G-AAZG	MALE	WHITE	NO	intrahepatic	MX	None	NO	75
+TCGA-4G-AAZO	FEMALE	WHITE	NO	intrahepatic	M0	None	NO	71
+TCGA-4G-AAZR	MALE	WHITE	NO	hilar/perihilar	MX	None	NO	74
+TCGA-4G-AAZT	MALE	WHITE	NO	intrahepatic	M0	None	NO	62
+TCGA-W5-AA2G	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	62
+TCGA-W5-AA2H	FEMALE	WHITE	YES	distal	M0	None	NO	70
+TCGA-W5-AA2I	MALE	WHITE	NO	intrahepatic	M0	None	NO	66
+TCGA-W5-AA2J	FEMALE	WHITE	NO	hilar/perihilar	M0	None	NO	66
+TCGA-W5-AA2K	FEMALE	WHITE	NO	intrahepatic	M0	None	NO	75
+TCGA-W5-AA2M	MALE	Unknown	NO	hilar/perihilar	M1	None	NO	49
+TCGA-W5-AA2O	MALE	WHITE	NO	intrahepatic	M0	None	NO	57
+TCGA-W5-AA2Q	MALE	WHITE	YES	intrahepatic	M0	None	NO	68
+TCGA-W5-AA2R	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	77
+TCGA-W5-AA2T	FEMALE	WHITE	NO	intrahepatic	M0	None	NO	64
+TCGA-W5-AA2U	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	78
+TCGA-W5-AA2W	FEMALE	WHITE	NO	intrahepatic	M0	None	NO	31
+TCGA-W5-AA2X	MALE	WHITE	YES	hilar/perihilar	M1	Micro	NO	67
+TCGA-W5-AA2Z	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	29
+TCGA-W5-AA30	MALE	WHITE	YES	intrahepatic	M0	None	NO	82
+TCGA-W5-AA31	MALE	WHITE	YES	intrahepatic	M0	None	NO	71
+TCGA-W5-AA33	MALE	WHITE	YES	intrahepatic	M0	None	NO	60
+TCGA-W5-AA34	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	75
+TCGA-W5-AA36	FEMALE	WHITE	Unknown	hilar/perihilar	M1	None	NO	51
+TCGA-W5-AA38	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	55
+TCGA-W5-AA39	MALE	WHITE	YES	intrahepatic	M0	None	NO	81
+TCGA-W6-AA0S	FEMALE	WHITE	NO	intrahepatic	MX	None	YES	46
+TCGA-W6-AA0T	FEMALE	WHITE	YES	intrahepatic	M0	None	NO	62
+TCGA-WD-A7RX	FEMALE	WHITE	YES	intrahepatic	MX	None	Unknown	71
+TCGA-YR-A95A	MALE	WHITE	YES	hilar/perihilar	M1	Unknown	YES	52
+TCGA-ZD-A8I3	FEMALE	ASIAN	NO	intrahepatic	M0	Unknown	Unknown	73
+TCGA-ZH-A8Y1	FEMALE	WHITE	NO	intrahepatic	M0	Micro	Unknown	74
+TCGA-ZH-A8Y2	FEMALE	BLACK OR AFRICAN AMERICAN	YES	intrahepatic	M0	Micro	NO	59
+TCGA-ZH-A8Y3	FEMALE	BLACK OR AFRICAN AMERICAN	YES	intrahepatic	M0	Micro	YES	61
+TCGA-ZH-A8Y4	MALE	WHITE	YES	intrahepatic	M0	None	NO	58
+TCGA-ZH-A8Y5	MALE	WHITE	YES	intrahepatic	M1	Micro	NO	69
+TCGA-ZH-A8Y6	FEMALE	BLACK OR AFRICAN AMERICAN	YES	intrahepatic	M0	None	NO	41
+TCGA-ZH-A8Y7	MALE	WHITE	NO	intrahepatic	M1	Micro	YES	59
+TCGA-ZH-A8Y8	MALE	WHITE	YES	intrahepatic	M0	None	YES	73
+TCGA-ZU-A8S4	MALE	WHITE	NO	intrahepatic	MX	None	YES	52
